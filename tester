@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Hello, world!</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div>
+      <img src="/images/logo--rock-n-stroll.png" alt="Rock n Stroll logo" style="width:600px;height:600px;">
+    </div>
+  </body>
+</html>
